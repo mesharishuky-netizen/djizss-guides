@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mesharishuky-netizen.github.io/djizss-guides/sitemap.xml
